@@ -4,4 +4,4 @@ In this repository the R scripts used to build the phylogeny of Melastomataceae 
 
 **Reference:**
 
-[Reginato, M., Vasconcelos, T.N.C., Kriebel, R., Simões, A.O. 2020. Is dispersal mode a driver of diversification and geographical distribution in the tropical plant family Melastomataceae? Molecular Phylogenetics and Evolution (x): x-x.](https://doi.org/10.1016/j.ympev.2020.106815)
+[Reginato, M., Vasconcelos, T.N.C., Kriebel, R., Simões, A.O. 2020. Is dispersal mode a driver of diversification and geographical distribution in the tropical plant family Melastomataceae? Molecular Phylogenetics and Evolution 148: 106815.](https://doi.org/10.1016/j.ympev.2020.106815)
